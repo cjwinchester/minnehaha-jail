@@ -1,4 +1,4 @@
 minnehaha-jail
 ==============
 
-Minnehaha Jail scraper.
+<a href="http://web.minnehahacounty.org:9000/dept/so/jail/jail_inmate_info.php?pageNum_rsGetInmate=0" target="_blank">Minnehaha County Jail</a> scraper.
